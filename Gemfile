@@ -40,6 +40,7 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy' # save and open page
   gem 'simplecov'
+  gem 'shoulda-matchers', '~> 5.0'
 end
 
 group :development do
